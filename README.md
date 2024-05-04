@@ -2,7 +2,6 @@
 
 Quick facts about me:
 - 🌓 Full Stack JavaScript Developer
-- 🏛 Currently working as <b>senior software engineer</b> in [1&1 Ionos](https://www.ionos.com/)
 - 🌱 Open source contributions
   - ⚡ [api-html](https://asfand-dev.github.io/api-html/)
   - ⚡ [api-html-cli](https://www.npmjs.com/package/api-html)
@@ -21,7 +20,5 @@ Quick facts about me:
   - 💥 [Smart Switch](https://codepen.io/asfandiyar/pen/YzPEKLg)
   - 💥 [Cards Hover Effect](https://codepen.io/asfandiyar/pen/yLBQRzP)
 
-- 🤝 [Linkedin](https://www.linkedin.com/in/asfandiyar-khan-a2a970b7/)
 - 🖥 [Stackoverflow](https://stackoverflow.com/users/5829219/asfandiyar-khan)
-- 🌎 [asfand-dev.github.io](https://asfand-dev.github.io)
 - 💬 asfand-dev@gmail.com
